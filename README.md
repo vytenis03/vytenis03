@@ -2,7 +2,7 @@
 <h3 align="center">Data enthusiast looking for internship or job opportunities</h3>
 
 - 🌱 I have completed a **Data analytics** course at **Turing College**
-- 🌱 I am also **Data Science** student at **Vilnius University** who has just finished the second year
+- 🌱 I am also third-year **Data Science** student at **Vilnius University**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
